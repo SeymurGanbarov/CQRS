@@ -1,0 +1,7 @@
+C:\Users\seymur.q\source\repos\TestConsole\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Users\seymur.q\source\repos\TestConsole\TestConsole\bin\Debug\TestConsole.exe
+C:\Users\seymur.q\source\repos\TestConsole\TestConsole\bin\Debug\TestConsole.pdb
+C:\Users\seymur.q\source\repos\TestConsole\TestConsole\obj\Debug\TestConsole.csprojAssemblyReference.cache
+C:\Users\seymur.q\source\repos\TestConsole\TestConsole\obj\Debug\TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\seymur.q\source\repos\TestConsole\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\seymur.q\source\repos\TestConsole\TestConsole\obj\Debug\TestConsole.pdb
